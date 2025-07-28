@@ -29,9 +29,16 @@ This is a simple Hangman game written in **pure Python** that runs in the termin
 3. Run the game with:
 python hangman.py
 
-## Screenshots
+---
 
-![Hangman Screenshot](1.png)
+## 📸 Screenshot
+
+Here’s what the game looks like while running in the terminal:
+
+<p align="center">
+  <img src="1.png" alt="Hangman Game Screenshot" width="700">
+</p>
+
 
 
 
