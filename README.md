@@ -27,9 +27,11 @@ This is a simple Hangman game written in **pure Python** that runs in the termin
 1. Download or clone the repository.
 2. Open the folder in your terminal or VS Code.
 3. Run the game with:
-
-```bash
 python hangman.py
+
+## Screenshots
+
+![Hangman Screenshot](1.png)
 
 
 
